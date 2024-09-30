@@ -89,6 +89,7 @@ nav ul li{
 
     .ham:hover{
         background: rgba(255, 255, 255, 0.3);
+        cursor: pointer;
     }
 
     .hide-mobile-menu{
